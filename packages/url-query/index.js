@@ -1,3 +1,9 @@
+/**
+ * get URL string query
+ * @export
+ * @param {string} url
+ * @returns 
+ */
 export function URLQuery(url) {
   let arr = [];
   let obj = {};
